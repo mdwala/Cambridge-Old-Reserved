@@ -1,1 +1,7 @@
-# Cambridge Old Reserved
+## Cambridge
+
+Cambridge Addon
+
+#### License
+
+GPL3
